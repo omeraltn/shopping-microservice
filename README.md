@@ -1,4 +1,3 @@
-
 # Shopping Microservices
 
 Monolitik yapıdaki alışveriş uygulamasını `customer`, `products` ve `shopping` servislerine ayırdığım bir çalışma. Amacım kullandığım teknikleri uygulamak ve mikroservis mimarisi konusundaki deneyimimi geliştirmekti.
@@ -18,9 +17,9 @@ Node.js, Express, MongoDB/Mongoose, servis başına ayrı veritabanı, API Gatew
 
 Ekran görüntüsü ve GIF dosyalarını `public/` klasörüne ekleyin.
 
-![Ekran görüntüsü](public/screenshot.png)
+![Ekran görüntüsü](./public/screenshot.png)
 
-![Proje demosu](public/demo.gif)
+![Proje demosu](./public/demo.gif)
 
 ## Çalıştırma
 
