@@ -13,11 +13,11 @@ Monolitik yapıdaki alışveriş uygulamasını `customer`, `products` ve `shopp
 
 Node.js, Express, MongoDB/Mongoose, servis başına ayrı veritabanı, API Gateway (reverse proxy), REST API, HTTP üzerinden servisler arası event/webhook bildirimleri, JWT ve bcrypt.
 
-## Görseller
-
-Ekran görüntüsü ve GIF dosyalarını `public/` klasörüne ekleyin.
+## Ekran Görüntü
 
 ![Ekran görüntüsü](./public/screenshot.png)
+
+## GIF
 
 ![Proje demosu](./public/demo.gif)
 
